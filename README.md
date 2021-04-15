@@ -44,3 +44,4 @@ Table of Contents
 7. Contact Information
 - Email: carlo1678@hotmail.com
 - LinkedIn: https://www.linkedin.com/in/carlocarbonell/
+- Link to my Medium post about this website: https://carlo1678.medium.com/my-api-project-b00c79a8caad
