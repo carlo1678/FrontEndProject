@@ -12,16 +12,16 @@ Table of Contents
 
 ## Prerequisites
 
-The prerequisites for this project were as follows:
-_ HTML/CSS
-_ Layout (flexbox or grid or framework layout)
-_ Javascript
-_ Dom manipulation
-_ API's (must fetch from at least one api)
-_ Skeleton CSS or Bootstrap
-_ 4 HTML pages
-_ Mobile responsive (aka, media queries and making them look nice)
-_ A design theme of some sort
-_ Must receive user input of some sort (input button, click, etc)
-_ Deploy using github pages
-_ Write a medium article about your process and challenges you faced.
+1. The prerequisites for this project were as follows:
+   *HTML/CSS
+   *Layout (flexbox or grid or framework layout)
+   *Javascript
+   *Dom manipulation
+   *API's (must fetch from at least one api)
+   *Skeleton CSS or Bootstrap
+   *4 HTML pages
+   *Mobile responsive (aka, media queries and making them look nice)
+   *A design theme of some sort
+   *Must receive user input of some sort (input button, click, etc)
+   *Deploy using github pages
+   *Write a medium article about your process and challenges you faced.
