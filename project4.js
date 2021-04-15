@@ -3,7 +3,6 @@ const apiPull = async () => {
     let response = await fetch(`https://api.nytimes.com/svc/movies/v2/reviews/search.json?query=${userInput.value}&api-key=5BRNX9snHaZ283VWQa3Cui2EWgzQqo5G`)
     let json = await response.json()
     let moviePull = json.results
-    console.log()
     let counter = 1
     for (movie of moviePull) {
         if (counter > 3) break
@@ -16,7 +15,7 @@ const apiPull = async () => {
             location.href = movie.link.url
         })
         counter += 1
-        console.log(moviePull)
+        console.log(moviePull[0])
         
     }
 
